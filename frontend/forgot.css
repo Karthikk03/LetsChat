@@ -1,0 +1,59 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #12081e;
+}
+
+
+.forgot{
+    border: 1px solid #e3e3e3;
+    padding: 20px;
+    border-radius: 8px;
+    margin:0 auto;
+    margin-top:40px;
+    width: 300px;
+    color:white;
+    background: #000;
+}
+
+.forgot h2{
+    font-size:30px;
+    font-weight: normal;
+    width: 100%;
+    margin-top: 14px;
+}
+
+.forgot input{
+    width: 100%;
+    background: #292929;
+    color: #fff;
+    border: 1px solid #292929;
+    padding: 6px 12px;
+    line-height: 1.42;
+    border-radius: 8px;
+    margin: 14px 0;
+}
+
+.btn{
+    width: 100%;
+    margin-bottom: 14px;
+}
+
+p,h2{
+    text-align: center;
+    color: #fff;
+}
+
+p{
+    color: #fff;
+    margin-top: 0.8rem;
+}
+
+#error{
+    color:red;
+}
+
+#link{
+    text-decoration: none;
+}
